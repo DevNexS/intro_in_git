@@ -5,8 +5,15 @@ Dominiks Segals
 ## Komandas
 ```
 
-git clone /link/
+git clone https://github.com/DevNexS/intro_in_git.git # Lai noklonetu projektu lokali
+
 git add .
-git commit "Veiktas izmainas"
+git commit -m "Veiktas izmainas"
+git push origin main
+
+git status # uzzinat kads ir status
+
+git config user.name "Name"
+git config user.email "Email"
 
 ```
